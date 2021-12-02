@@ -1,0 +1,2 @@
+INSERT INTO tb_pessoa(altura,cpf,data_nasc,nome,peso,sexo) VALUE(1.8,'85421600378','1981-12-12','Benigno Sales','84','M');
+INSERT INTO tb_pessoa(altura,cpf,data_nasc,nome,peso,sexo) VALUES(1.9,'90179364014','1982-03-10','Manoel Carlos','104','M');
